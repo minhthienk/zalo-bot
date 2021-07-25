@@ -1,0 +1,1313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"find",
+				"find_elements_by_xpath"
+			],
+			[
+				"po",
+				"property\tclass"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"get",
+				"get_attribute\tfunction"
+			],
+			[
+				"app",
+				"append\tfunction"
+			],
+			[
+				"chat",
+				"chat_items\tstatement"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"max_",
+				"max_sim_rate\tstatement"
+			],
+			[
+				"con",
+				"contractions_dict\tstatement"
+			],
+			[
+				"contrac",
+				"contractions_dict\tstatement"
+			],
+			[
+				"text",
+				"TextBlob\tclass"
+			],
+			[
+				"cont",
+				"contain"
+			],
+			[
+				"cor",
+				"corpus_builder\tmodule"
+			],
+			[
+				"cate",
+				"category\tstatement"
+			],
+			[
+				"ran",
+				"random\tmodule"
+			],
+			[
+				"mike",
+				"Mike\tclass"
+			],
+			[
+				"mit",
+				"Mitsuku\tclass"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"yml",
+				"YML_CORPUS_DIR_PATH\tstatement"
+			],
+			[
+				"best",
+				"best_confidence\tstatement"
+			],
+			[
+				"get_",
+				"get_best_match\tfunction"
+			],
+			[
+				"clas",
+				"classmethod\tclass"
+			],
+			[
+				"da",
+				"ConversationData\tclass"
+			],
+			[
+				"topi",
+				"topic_df\tstatement"
+			],
+			[
+				"a",
+				"all_sentences\tstatement"
+			],
+			[
+				"cur",
+				"cur_tags"
+			],
+			[
+				"build",
+				"build_corpus\tfunction"
+			],
+			[
+				"bot",
+				"bot_reponse"
+			],
+			[
+				"cu",
+				"cur_tags"
+			],
+			[
+				"wri",
+				"write\tfunction"
+			],
+			[
+				"as",
+				"ask_word\tstatement"
+			],
+			[
+				"my",
+				"my_corpus\tstatement"
+			],
+			[
+				"o",
+				"online\tfunction"
+			],
+			[
+				"find_e",
+				"find_elements_by_id\tfunction"
+			],
+			[
+				"findele",
+				"find_element_by_id\tfunction"
+			],
+			[
+				"msg",
+				"messagebox"
+			],
+			[
+				"buttonca",
+				"ButtonCamaraConnect\tstatement"
+			],
+			[
+				"show",
+				"showinfo\tfunction"
+			],
+			[
+				"button",
+				"ButtonDTC\tstatement"
+			],
+			[
+				"tab",
+				"table_text_compare\tstatement"
+			],
+			[
+				"html",
+				"html_detail_result\tstatement"
+			],
+			[
+				"html_",
+				"html_rows\tstatement"
+			],
+			[
+				"canvans",
+				"CanvasReference\tstatement"
+			],
+			[
+				"cnt",
+				"cnt_order\tstatement"
+			],
+			[
+				"tex",
+				"TextConsole\tstatement"
+			],
+			[
+				"put",
+				"put_text\tfunction"
+			],
+			[
+				"canv",
+				"CanvasReference\tstatement"
+			],
+			[
+				"resize",
+				"resize_img"
+			],
+			[
+				"can",
+				"CanvasCurrent\tstatement"
+			],
+			[
+				"result",
+				"result_flag\tstatement"
+			],
+			[
+				"resi",
+				"resize_img\tfunction"
+			],
+			[
+				"im",
+				"imread\tfunction"
+			],
+			[
+				"draw",
+				"draw_all_contours\tfunction"
+			],
+			[
+				"scree",
+				"screen_contour\tstatement"
+			],
+			[
+				"read",
+				"ocr_read"
+			],
+			[
+				"warp",
+				"warpPerspective\tfunction"
+			],
+			[
+				"img",
+				"img_show\tfunction"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"fidn",
+				"findContours\tfunction"
+			],
+			[
+				"first",
+				"first_row_flag\tstatement"
+			],
+			[
+				"ini",
+				"initial_part\tstatement"
+			],
+			[
+				"ob",
+				"obd2_pwm"
+			],
+			[
+				"proto",
+				"protocol_type\tparam"
+			],
+			[
+				"numb",
+				"number_of_data_bytes\tstatement"
+			],
+			[
+				"ford_",
+				"ford_iso9141"
+			],
+			[
+				"cmd",
+				"cmdtype\tparam"
+			],
+			[
+				"ecu",
+				"ecu_address"
+			],
+			[
+				"stan",
+				"standardize_string\tfunction"
+			],
+			[
+				"put_",
+				"put_data_to_sim_command\tfunction"
+			],
+			[
+				"dot",
+				"DotMap\tclass"
+			],
+			[
+				"strn",
+				"standardize_string\tfunction"
+			],
+			[
+				"dic",
+				"dict\tclass"
+			],
+			[
+				"re",
+				"response_command\tfunction"
+			],
+			[
+				"out",
+				"output_raw\tparam"
+			],
+			[
+				"simul",
+				"simulation_dir_path\tstatement"
+			],
+			[
+				"dec",
+				"dec_swap_num"
+			],
+			[
+				"au",
+				"auto_pid_list\tstatement"
+			],
+			[
+				"raw",
+				"raw_to_readable\tfunction"
+			],
+			[
+				"xmin_",
+				"xmin_hex\tstatement"
+			],
+			[
+				"ld_",
+				"ld_output_raw_dec\tparam"
+			],
+			[
+				"path",
+				"pathlib\tmodule"
+			],
+			[
+				"filter",
+				"filtered_paths\tstatement"
+			],
+			[
+				"auto",
+				"auto_pid_str"
+			],
+			[
+				"Inn",
+				"IncorrectVinLength\tclass"
+			],
+			[
+				"OBD2",
+				"Obd2Simulation\tclass"
+			],
+			[
+				"dtcs",
+				"dtcstring\tparam"
+			],
+			[
+				"ch",
+				"check_missing_formula\tfunction"
+			],
+			[
+				"crea",
+				"create_livedata"
+			],
+			[
+				"item",
+				"item_infor"
+			],
+			[
+				"writ",
+				"write_data"
+			],
+			[
+				"wr",
+				"write_data"
+			],
+			[
+				"bytes",
+				"byte_size"
+			],
+			[
+				"byte",
+				"byte_size"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"tra",
+				"Translation"
+			],
+			[
+				"to",
+				"to_list"
+			],
+			[
+				"sid",
+				"sid_data_list"
+			],
+			[
+				"byte_",
+				"byte_position"
+			],
+			[
+				"PROTOC",
+				"PROTOCOL_CAN"
+			],
+			[
+				"dtc_",
+				"dtc_status_df"
+			],
+			[
+				"write",
+				"write_missing_enum"
+			],
+			[
+				"w",
+				"write_missing_enum_flag"
+			],
+			[
+				"set",
+				"set_index"
+			],
+			[
+				"obd2_",
+				"obd2_monitors_path"
+			],
+			[
+				"OBD",
+				"Obd2Simulation"
+			],
+			[
+				"stat",
+				"staticmethod"
+			],
+			[
+				"can_",
+				"can_postfix"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"sheet_name",
+				"sheet_names"
+			],
+			[
+				"vin",
+				"vinfull"
+			],
+			[
+				"database",
+				"database_display"
+			],
+			[
+				"VIN",
+				"VinDecode"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"lan",
+				"lang_filter"
+			],
+			[
+				"samp",
+				"SampleHtml"
+			],
+			[
+				"_Arrayda",
+				"_ArrayDisplay()"
+			],
+			[
+				"_array",
+				"_ArrayDisplay()"
+			],
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"system",
+				"SYSTEM\tJava Class"
+			],
+			[
+				"_IE",
+				"_IECreate()"
+			],
+			[
+				"stringre",
+				"StringRegExpReplace()"
+			],
+			[
+				"stringrep",
+				"StringRegExpReplace()"
+			],
+			[
+				"for",
+				"ForToStepNext"
+			],
+			[
+				"Console",
+				"ConsoleWrite()"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"thr",
+				"throws"
+			],
+			[
+				"file",
+				"FileInputStream"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import requests\nimport json\nfrom preprocessing import Grammar\n\nclass Zalo(object):\n    \"\"\"docstring for Zalo\"\"\"\n    def __init__(self):\n        self.headers = {\n            'authority': 'openapi.zalo.me',\n            'user-agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',\n            'content-type': 'text/plain;charset=UTF-8',\n            'accept': '*/*',\n            'sec-gpc': '1',\n            'origin': 'https://developers.zalo.me',\n            'sec-fetch-site': 'same-site',\n            'sec-fetch-mode': 'cors',\n            'sec-fetch-dest': 'empty',\n            'referer': 'https://developers.zalo.me/',\n            'accept-language': 'en-US,en;q=0.9',\n        }\n        self.access_token = 'bMlFE0q_v32HOCe-2ZNdDPLWppuC8ff6bXYqJNO_pYMkDUTpJs6kDgj-vq56M9SqemJoV7yAe7QcFl87PsQCSOOomnXM5kjCgYkc0t9_p0YnTRXHQI7WEOe_oMbnOendjJZUD7e4XMAMFCfhIMM83RGyzWfmQTq7dtoASrbPzJx1PQnUE4Bx1C1ntqewQRKymppXO0idp3V70kXwB0d4A_0BYtOq4wOR-oZh5nelnKdu1ByR6ZtiHS4di1GSEknO-W6qFJOVc6Jw0y0G5rxeTzH5Z74GPzqusaUMQgbi7JyFAUOs'\n    \n\n    def get_followers(self):\n        params = (\n            ('data', '{\"offset\":0,\"count\":50}'),\n            ('access_token', self.access_token),\n        )\n        response = requests.get('https://openapi.zalo.me/v2.0/oa/getfollowers', \n            headers=self.headers, params=params)\n        print(response.text)\n\n\n    def get_profile(self, user_id):\n        params = (\n            ('data', '{{\"user_id\":\"{}\"}}'.format(user_id)),\n            ('access_token', self.access_token),\n        )\n\n        response = requests.get('https://openapi.zalo.me/v2.0/oa/getprofile', \n            headers=self.headers, params=params)\n        print(response.text)\n\n\n    def message(self, user_id, text):\n        params = (('access_token', self.access_token),)\n        data = {}\n        data['recipient'] = {\"user_id\":\"{}\".format(user_id)}\n        data['message'] = {\"text\":\"{}\".format(text)}\n        data = json.dumps(data)\n        response = requests.post('https://openapi.zalo.me/v2.0/oa/message', \n            headers=self.headers, params=params, data=data)\n        print(response.text)\n\n\nzalo = Zalo()\nuser_id_list = ['1927785561028610281']\n\nuser_id = '1927785561028610281'\ntext = 'This is automatic message'\nzalo.message(user_id=user_id, text=text)\n",
+			"file": "zalo.py",
+			"file_size": 2390,
+			"file_write_time": 132691701046411454,
+			"settings":
+			{
+				"buffer_size": 2327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Actions History"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 402.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Coding Projects/zaloao-english-teacher"
+	],
+	"file_history":
+	[
+		"/E/Coding Projects/zaloao-english-teacher/preprocessing.py",
+		"/D/Python/Python38/lib/site-packages/pandas/io/pickle.py",
+		"/D/Python/Python38/lib/site-packages/pandas/io/common.py",
+		"/D/Python/Python38/lib/site-packages/language_check/__init__.py",
+		"/E/centeronline.py",
+		"/C/Users/K/Desktop/test textblob.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/botdata/alice/stories.aiml",
+		"/D/Python/Python38/Lib/site-packages/aiml/botdata/standard/std-that.aiml",
+		"/D/Python/Python38/Lib/site-packages/aiml/botdata/standard/dev-testcases.aiml",
+		"/D/Python/Python38/lib/difflib.py",
+		"/C/Users/K/Desktop/Building-a-Simple-Chatbot-in-Python-using-NLTK-master/_config.yml",
+		"/C/Users/K/Desktop/Building-a-Simple-Chatbot-in-Python-using-NLTK-master/chatbot.txt",
+		"/E/Google Drive/3. Coding/bot/lib/chatbot.py",
+		"/C/Users/K/Desktop/OpenDomainChatbot-master/requirements.txt",
+		"/C/Users/K/Desktop/Chatscript-10.61/HOW TO MAKE A RELEASE.txt",
+		"/C/Users/K/Desktop/New Text Document.txt",
+		"/C/Users/K/Desktop/cobe-master/setup.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/Utils.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/PatternMgr.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/Kernel.py",
+		"/C/Users/K/Desktop/simi.py",
+		"/E/Google Drive/3. Coding/bot/data/aiml/bot.properties",
+		"/E/Google Drive/3. Coding/bot/lib/zalo.py",
+		"/E/Google Drive/3. Coding/bot/session.txt",
+		"/E/Google Drive/3. Coding/bot/lib/corpus_builder.py",
+		"/E/Google Drive/3. Coding/bot/lib/attach.py",
+		"/D/Python/Python38/lib/site-packages/selenium/webdriver/remote/errorhandler.py",
+		"/E/Google Drive/3. Coding/bot/data/aiml/demo.aiml",
+		"/E/Google Drive/3. Coding/bot/lib/backup/test2.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/test_example.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/test.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/main.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/test_chatbot.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/test_classifier.py",
+		"/C/Users/K/Desktop/howmany.aiml",
+		"/E/Google Drive/3. Coding/bot/std-startup.xml",
+		"/E/Google Drive/3. Coding/bot/std-startup-index.xml",
+		"/E/Google Drive/3. Coding/bot/lib/std-startup.xml",
+		"/E/Google Drive/3. Coding/bot/data/aiml/New Text Document.txt",
+		"/E/Google Drive/3. Coding/AIML Storage/aiml-en-us-foundation-alice/client_profile.aiml",
+		"/E/Google Drive/3. Coding/bot/lib/mypaths.py",
+		"/E/Google Drive/3. Coding/AIML Storage/get-database/Atomic.aiml",
+		"/E/Google Drive/3. Coding/bot/lib/preprocessing.py",
+		"/E/Google Drive/3. Coding/AIML Storage/start_chat.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/AimlParser.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/WordSub.py",
+		"/D/Python/Python38/Lib/site-packages/aiml/script/bot.py",
+		"/E/Google Drive/3. Coding/bot/can_delete.py",
+		"/D/Python/Python38/lib/re.py",
+		"/E/Google Drive/3. Coding/Innova Server - New version Mar04/lib/databases.py",
+		"/E/Google Drive/3. Coding/bot/lib/grammarcheck.py",
+		"/E/Google Drive/3. Coding/bot/data/ymlcorpus/alice_corpus.yml",
+		"/E/Google Drive/3. Coding/bot/data/ymlcorpus/main_corpus.yml",
+		"/E/Google Drive/3. Coding/bot/train.py",
+		"/C/Users/K/Desktop/AIML Storage/test-lib/atomic.aiml",
+		"/D/Python/Python38/Lib/site-packages/aiml/script/aimlvalidate.py",
+		"/C/Users/K/Desktop/AIML Storage/std-startup.xml",
+		"/E/Google Drive/3. Coding/bot/data/ymlcorpus/alice.yml",
+		"/D/Python/Python38/lib/site-packages/chatterbot/trainers.py",
+		"/D/Python/Python38/lib/site-packages/chatterbot/corpus.py",
+		"/E/Google Drive/3. Coding/bot/data/bot_profile.aiml",
+		"/E/Google Drive/3. Coding/bot/aiml_reverse.py",
+		"/C/Users/K/Desktop/battledome.aiml",
+		"/E/Google Drive/3. Coding/bot/data/ymlcorpus/pair_corpus.yml",
+		"/E/Google Drive/3. Coding/bot/main.py",
+		"/E/Google Drive/3. Coding/Python/Projects/bmw/main.py",
+		"/E/Google Drive/3. Coding/Python/Projects/bmw/funcs.py",
+		"/C/Users/K/Desktop/rosie-master/lib/sets/bird.set",
+		"/C/Users/K/Desktop/simpleChatBot-master/brain.py",
+		"/C/Users/K/Desktop/simpleChatBot-master/test.py",
+		"/D/Python/Python38/lib/site-packages/aiml/Kernel.py",
+		"/C/Users/K/Desktop/simple-chat-bot-master/brain.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/search.py",
+		"/E/Google Drive/3. Coding/bot/lib/best_match.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/tagging.py",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/User/Python_cmd.sublime-build",
+		"/E/Google Drive/3. Coding/bot/reverse_bot.py",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/User/python_cmd.sublime-build",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/E/Google Drive/3. Coding/bot/lib/can_delete.py",
+		"/E/Google Drive/3. Coding/bot/lib/webchatbot.py",
+		"/E/Google Drive/3. Coding/bot/test.py",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/mitsuku_1596114177",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/mike_1596114175",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/mitsuku_1596112828",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/mike_1596111068",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596110379",
+		"/E/Google Drive/3. Coding/bot/lib/mitsuku.py",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596102609",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596102145",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596101715",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596101118",
+		"/E/Google Drive/3. Coding/bot/data/chatbotlog/conversation_1596101637",
+		"/E/Google Drive/3. Coding/bot/data/ymlcorpus/greetings.yml",
+		"/E/Google Drive/3. Coding/bot/Note.txt",
+		"/C/Users/K/Desktop/rosie-master/lib/aiml/animal.aiml",
+		"/C/Users/K/Desktop/rosie-master/lib/sets/animals.set",
+		"/C/Users/K/Desktop/rosie-master/lib/sets/animal.set",
+		"/C/Users/K/Desktop/rosie-master/lib/aiml/bot_profile.aiml",
+		"/C/Users/K/Desktop/rosie-master/lib/aiml/client_profile.aiml",
+		"/E/Google Drive/3. Coding/bot/data/mitsuku/mitsuku_1596023233",
+		"/E/Google Drive/3. Coding/bot/data/mitsuku/mitsuku_1596023027",
+		"/E/Google Drive/3. Coding/bot/data/mitsuku/mitsuku_1596022495",
+		"/E/Google Drive/3. Coding/bot/data/mitsuku/mitsuku_1596021845",
+		"/E/Google Drive/3. Coding/bot/lib/backup/mypaths.py",
+		"/E/Google Drive/3. Coding/bot/lib/tagging_backup.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/logic/logic_adapter.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/logic/best_match.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/filters.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/adapters.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/response_selection.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/utils.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/logic/specific_response.py",
+		"/D/Python/Python38/Lib/site-packages/chatterbot/comparisons.py",
+		"/D/Python/Python38/lib/site-packages/chatterbot/tagging.py",
+		"/E/Google Drive/3. Coding/bot/lib/backup/chatbot.py",
+		"/E/Google Drive/3. Coding/bot/lib/database.py",
+		"/D/Python/Python38/lib/site-packages/sqlalchemy/util/compat.py",
+		"/C/Users/K/Desktop/test.py",
+		"/C/Users/K/AppData/Local/Programs/Python/Python37-32/Lib/textwrap.py",
+		"/C/Users/K/AppData/Local/Programs/Python/Python37-32/lib/site-packages/language_check/__init__.py",
+		"/E/Google Drive/3. Coding/bot/lib/cosine_similarity.py",
+		"/D/Applications/Python/Python 37-32/Lib/site-packages/wheel/egg2wheel.py",
+		"/D/Applications/Python/Python 37-32/Lib/site-packages/wheel/paths.py",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/K/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 601.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enter",
+			"I hear you.. Gosh",
+			"the slowest traffic called",
+			"log",
+			"\\[.+?\\]",
+			"print",
+			"chat-item flx",
+			".inn",
+			"mtc",
+			"person",
+			"mtc",
+			"input_line_0",
+			"noãn",
+			"kiếm quán cf",
+			"write",
+			"<bot",
+			"[bot",
+			"<bot",
+			"ARE YOU ALWAYS RIGHT",
+			"yes",
+			"\\n\\n",
+			"\\n\\n\\n",
+			"\\n\\n",
+			"o you mean you are 95 years old",
+			"Do you mean you are 95 years old?",
+			"WHERE DOES HE LIVE",
+			"<li>Hi there!</li>",
+			"<li>Hi there!</li>\n",
+			">HELLO<",
+			">hello<",
+			"hello<",
+			"hello",
+			"hey<",
+			"hey",
+			"\\n\\n",
+			"ABROAD *",
+			"A BIT *",
+			"kernel",
+			"pre_process",
+			"hello",
+			" / ",
+			"statement",
+			"sounds like a plan",
+			"how are you",
+			"do a lot of people",
+			"so you mean what",
+			"it means",
+			"don't worry",
+			"only for",
+			"hear",
+			"- \\d",
+			"\"",
+			"list_corpus_files",
+			"copus_df",
+			"set",
+			"bot:   ",
+			"user:  ",
+			"set",
+			"uppercase",
+			"<!-- as published by the Free Software Foundation.   -->\ntime.clock()",
+			"time.clock()",
+			"print",
+			"using",
+			"closest_match",
+			"using",
+			"Similar",
+			"using",
+			"closest_match",
+			"using",
+			"Similar",
+			"up",
+			"tolerate",
+			"DATABASE_DIR_PATH",
+			"lint",
+			", array",
+			"how are you",
+			"  warnings.warn(\"Pass {} as keyword args. From version 0.25 \"",
+			"C:\\\\.+error",
+			"\\n\\n",
+			"Transmission Gear",
+			"Brake Switch Status",
+			"Fuel Level",
+			"Steering",
+			"33 02",
+			"steer",
+			"^ +",
+			">",
+			">Oil Filter:",
+			">Oil Filter: ",
+			"\\t",
+			":",
+			" :",
+			"\\t",
+			": ",
+			"^>",
+			"^> +",
+			"how is it going",
+			"\\n\\n",
+			"</font>",
+			"\">",
+			"<font color=\"#.+?\\>",
+			"\\<font.+?\\>",
+			"\\<font.+\\>?",
+			"\\<font.+\\>",
+			"\\<font.+\"\\>",
+			"\\<font.+\\\"\\>",
+			"\\<font.+?\\\"\\>",
+			"\\<font.+?\\>",
+			"\\<font.+\\>",
+			"^\\d+\\n",
+			"\\d\\d\\:.+",
+			"stopword",
+			"filter",
+			"internet",
+			"inter net",
+			"'",
+			"filter",
+			"response_selection",
+			"response",
+			"additional_response_selection_parameters",
+			"additional",
+			"filter",
+			"filer",
+			"filter",
+			"what's up",
+			"tag",
+			"conver",
+			"filter"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"contact",
+			"\\n",
+			"self.kernel",
+			"|",
+			"user_text",
+			"- zzz",
+			"corpus_df",
+			"",
+			"time.process_time()",
+			"tolerance",
+			"DATA_DIR_PATH",
+			"\\n, array",
+			"",
+			"\\n",
+			"",
+			"\\t",
+			"\\n",
+			"",
+			"\"\\n",
+			"\\], \\n\\[",
+			"",
+			"\\t",
+			"\\n\\n\\nGROUP",
+			"\\n",
+			"",
+			" = None",
+			"None",
+			"'Message'",
+			"ButtonCameraConnect",
+			"gl_cam",
+			"cam",
+			"\\n",
+			"TextReference",
+			"cv_img",
+			"ButtonScreenCorrection",
+			"CanvasReference",
+			"TextPercentage",
+			"TextAngle",
+			"CanvasCurrent",
+			"Text_Percentage",
+			"Text_Angle",
+			"start_gui",
+			"cv_img",
+			"Canvas_Screen",
+			"Canvas",
+			"\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"find_screen_contour",
+			"rotate_image",
+			"detect_screen_contour",
+			"capture_camera",
+			".png",
+			"-",
+			"\"",
+			"protocol_type",
+			"<",
+			">",
+			"current_row_cmd",
+			"row_order",
+			"max_data_length_per_row",
+			"number_of_data_bytes",
+			"cmd_order",
+			"comd_order",
+			"number_of_rows_with_max_data_bytes",
+			"command_order_byte_flag",
+			"initial_part",
+			"initial_parts",
+			"initial_part",
+			"max_data_lenth_per_row",
+			"ecu_addr",
+			"_file_path",
+			"file_path",
+			"    ",
+			">\\n<",
+			"",
+			"{{ monitor }}",
+			"{{ general_monitor }}",
+			"{",
+			"}",
+			"    ",
+			"....",
+			"        <",
+			"}}",
+			"{{",
+			"}}",
+			"}",
+			"{",
+			"\\t",
+			"",
+			"\\t",
+			"08 xx",
+			"000007E8 08 05 62",
+			"\\n",
+			" \tNONE\t0\t0 ",
+			"\\n",
+			"",
+			"\\t",
+			"",
+			"\\n",
+			"",
+			"//NOTE:\\n//NOTE:\\n//NOTE:system",
+			"\\n",
+			"\"system",
+			"\"\\n\\n\\n",
+			"\\nsystem\"",
+			"<daynhaydoi>",
+			"",
+			"\\n\\n\\n\\n",
+			"",
+			"\"\\n\\n\\n",
+			"\\n\"system",
+			"<daynhaydoi>",
+			"",
+			"\\n\\n\\n\\n\\n",
+			"\\n\\n\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "zalo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2196,
+								2215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 203.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 277.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotodocumentation":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "zaloao.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Google Drive\\3. Coding\\Java\\Tutorial\\JavaPackage\\a.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
